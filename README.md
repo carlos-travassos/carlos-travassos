@@ -1,16 +1,17 @@
-### Hi there 👋
+# Olá, sou Carlos Travassos (Carlin)  👋
 
-<!--
-**carlos-travassos/carlos-travassos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Dev Fullstack
 
-Here are some ideas to get you started:
+### Linguagens
+- `Python` 🐍
+- `JavaScript` 💻
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Ferramentas adicionais:
+  - `HTML 5`
+  - `CSS 5`
+  
+  
+  ### Contatos
+  
+  - email dev.carlostravassos@gmail.com
+  - Linkedin www.linkedin.com/in/carlos-travassos-85a501166/

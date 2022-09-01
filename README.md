@@ -16,3 +16,7 @@
   - email dev.carlostravassos@gmail.com
   - Linkedin www.linkedin.com/in/carlos-travassos-85a501166/
   
+
+  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+ 
+</div>
